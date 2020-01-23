@@ -1,0 +1,1 @@
+This repository is for showing how GIT and GITHUB works  
